@@ -1,0 +1,70 @@
+{
+  "admob_appopen": "ca-app-pub-3940256099942544/9257395921",
+  "admob_interstital": "ca-app-pub-3940256099942544/1033173712",
+  "admob_interstital_reward": "ca-app-pub-3940256099942544/5354046379",
+  "admob_reward": "ca-app-pub-3940256099942544/5224354917",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admanager_appopen": "/6499/example/app-open",
+  "admanager_interstital": "/6499/example/interstitial",
+  "admanager_interstital_reward": "/21775744923/example/rewarded_interstitial",
+  "admanager_reward": "/6499/example/rewarded",
+  "admanager_banner": "/6499/example/banner",
+  "admanager_native": "/6499/example/native",
+  "ads_show": "on",
+  "activity_show": "on",
+  "ad_blocker": "off",
+  "appopen": "on",
+  "extra_activity": 3,
+  "interstitial_extra_adcount": "2",
+  "interstitial_count": "1",
+  "interstitial_backcount": "1",
+  "interstitial_start_screen_ad": "on",
+  "appopen_type": "admob",
+  "ad_appopen": [
+    "admob",
+    "adx"
+  ],
+  "ad_inter": [
+    "admob",
+    "adx"
+  ],
+  "ad_inter_reward": [
+    "admob",
+    "adx"
+  ],
+  "ad_native": [
+    "admob",
+    "adx"
+  ],
+  "ad_banner": [
+    "admob",
+    "adx"
+  ],
+  "ad_reward": [
+    "admob",
+    "adx"
+  ],
+  "home1": "https://newschapri.com/adsid/winzbuzz/games_list/home_allgames.json",
+  "home2": "https://newschapri.com/adsid/winzbuzz/games_list/collection_gamelist.json",
+  "home3": "https://newschapri.com/adsid/winzbuzz/games_list/newest_gamelist.json",
+  "home4": "https://newschapri.com/adsid/winzbuzz/games_list/3dgames_gamelist.json",
+  "privacy_url": "https://appstoneinfodevapps.blogspot.com/2024/03/winbuzz-app-play-all-games.html",
+  "base_url": "https://newschapri.com/adsid/iphone01/games_list/",
+  "carousel1": {
+    "url": "https://pub.gamezop.com/v3/games?id=7770",
+    "total_page": 0
+  },
+  "carousel2": {
+    "url": "https://feeds.gamepix.com/v2/json?sid=IN7NN&pagination=96&page=",
+    "total_page": 66
+  },
+  "carousel3": {
+    "url": "https://gamemonetize.com/feed.php?format=0&num=100&page=",
+    "total_page": 313
+  },
+  "carousel4": {
+    "url": "https://games.atmegame.com/api/capi/games/ZIOuucdohISAYoWFdpc%3D/",
+    "total_page": 0
+  }
+}
